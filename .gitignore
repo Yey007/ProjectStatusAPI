@@ -1,0 +1,8 @@
+.idea/
+
+ProjectStatusAPI/bin/
+ProjectStatusAPI/obj/
+
+ProjectStatusAPI/appsettings.json
+
+ProjectStatusAPI.sln.DotSettings.user
