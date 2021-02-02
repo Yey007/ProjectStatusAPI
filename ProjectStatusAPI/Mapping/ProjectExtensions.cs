@@ -1,5 +1,5 @@
 using ProjectStatusAPI.API.Projects;
-using ProjectStatusAPI.Data.Projects;
+using ProjectStatusAPI.Storage.Projects;
 
 namespace ProjectStatusAPI.Mapping
 {

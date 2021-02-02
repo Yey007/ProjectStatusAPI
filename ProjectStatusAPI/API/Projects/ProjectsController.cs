@@ -1,10 +1,10 @@
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using ProjectStatusAPI.Data.Projects;
 using ProjectStatusAPI.Exceptions.API;
 
 using ProjectStatusAPI.Mapping;
+using ProjectStatusAPI.Storage.Projects;
 
 namespace ProjectStatusAPI.API.Projects
 {
