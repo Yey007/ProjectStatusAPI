@@ -2,6 +2,8 @@
 
 ProjectStatusAPI/bin/
 ProjectStatusAPI/obj/
+ProjectStatusAPI.Tests/bin/
+ProjectStatusAPI.Tests/obj/
 
 ProjectStatusAPI/appsettings.json
 

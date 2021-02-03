@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace ProjectStatusAPI.Data
+namespace ProjectStatusAPI.Storage
 {
     public interface IRepository<T>
     {

@@ -2,11 +2,11 @@ using System;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using ProjectStatusAPI.Data.DataPoint;
-using ProjectStatusAPI.Data.Projects;
 using ProjectStatusAPI.Exceptions.Data;
+using ProjectStatusAPI.Storage.DataPoint;
+using ProjectStatusAPI.Storage.Projects;
 
-namespace ProjectStatusAPI.Data
+namespace ProjectStatusAPI.Storage
 {
     public class DataContext : DbContext
     {

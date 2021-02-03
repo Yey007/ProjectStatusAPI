@@ -2,11 +2,11 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using ProjectStatusAPI.Data;
-using ProjectStatusAPI.Data.DataPoint;
-using ProjectStatusAPI.Data.Projects;
 using ProjectStatusAPI.Exceptions.API;
 using ProjectStatusAPI.Exceptions.Data;
+using ProjectStatusAPI.Storage;
+using ProjectStatusAPI.Storage.DataPoint;
+using ProjectStatusAPI.Storage.Projects;
 
 namespace ProjectStatusAPI
 {

@@ -1,8 +1,7 @@
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
-namespace ProjectStatusAPI.Data.Projects
+namespace ProjectStatusAPI.Storage.Projects
 {
     public interface IProjectRepository : IRepository<ProjectDto>
     {

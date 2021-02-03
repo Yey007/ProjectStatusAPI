@@ -1,11 +1,11 @@
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using ProjectStatusAPI.Data.DataPoint;
 using ProjectStatusAPI.Exceptions.API;
 using ProjectStatusAPI.Mapping;
+using ProjectStatusAPI.Storage.DataPoint;
 
-namespace ProjectStatusAPI.API.Projects
+namespace ProjectStatusAPI.API.DataPoint
 {
     [ApiController]
     [Route("/projects/{projectId}/stats")]

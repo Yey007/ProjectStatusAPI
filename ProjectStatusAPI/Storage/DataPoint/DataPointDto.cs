@@ -1,7 +1,7 @@
 using System;
-using ProjectStatusAPI.Data.Projects;
+using ProjectStatusAPI.Storage.Projects;
 
-namespace ProjectStatusAPI.Data.DataPoint
+namespace ProjectStatusAPI.Storage.DataPoint
 {
     public class DataPointDto
     {

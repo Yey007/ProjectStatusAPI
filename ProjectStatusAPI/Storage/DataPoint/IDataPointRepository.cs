@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace ProjectStatusAPI.Data.DataPoint
+namespace ProjectStatusAPI.Storage.DataPoint
 {
     public interface IDataPointRepository : IRepository<DataPointDto>
     {

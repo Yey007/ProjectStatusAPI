@@ -1,6 +1,6 @@
 using System;
 
-namespace ProjectStatusAPI.API.Projects
+namespace ProjectStatusAPI.API.DataPoint
 {
     public class DataPoint
     {

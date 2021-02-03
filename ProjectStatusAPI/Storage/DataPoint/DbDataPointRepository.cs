@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using ProjectStatusAPI.Exceptions.Data;
 
-namespace ProjectStatusAPI.Data.DataPoint
+namespace ProjectStatusAPI.Storage.DataPoint
 {
     public class DbDataPointRepository : IDataPointRepository
     {

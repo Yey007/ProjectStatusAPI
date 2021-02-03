@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using ProjectStatusAPI.Data.DataPoint;
+using ProjectStatusAPI.Storage.DataPoint;
 
-namespace ProjectStatusAPI.Data.Projects
+namespace ProjectStatusAPI.Storage.Projects
 {
     public class ProjectDto
     {
